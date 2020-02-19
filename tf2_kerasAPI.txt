@@ -1,0 +1,14 @@
+>>> tf.keras.
+tf.keras.Input(           tf.keras.datasets         tf.keras.models
+tf.keras.Model(           tf.keras.estimator        tf.keras.optimizers
+tf.keras.Sequential(      tf.keras.experimental     tf.keras.preprocessing
+tf.keras.activations      tf.keras.initializers     tf.keras.regularizers
+tf.keras.applications     tf.keras.layers           tf.keras.utils
+tf.keras.backend          tf.keras.losses           tf.keras.wrappers
+tf.keras.callbacks        tf.keras.metrics          
+tf.keras.constraints      tf.keras.mixed_precision  
+>>> tf.keras.datasets.
+tf.keras.datasets.boston_housing  tf.keras.datasets.imdb
+tf.keras.datasets.cifar10         tf.keras.datasets.mnist
+tf.keras.datasets.cifar100        tf.keras.datasets.reuters
+tf.keras.datasets.fashion_mnist 
